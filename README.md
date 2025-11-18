@@ -2,6 +2,10 @@
 
 A browser extension that allows you to control YouTube video playback speed.
 
+## Screenshot
+
+![Extension Screenshot](App.png)
+
 ## Features
 
 - Control playback speed from 0.25x to 4.0x
